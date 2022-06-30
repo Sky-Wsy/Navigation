@@ -1,0 +1,161 @@
+﻿.ax_default {
+  font-family:'';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+._图片_ {
+}
+.box_2 {
+}
+.box_3 {
+}
+.link_button {
+  color:#169BD5;
+}
+._图片 {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._一级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._流程形状 {
+}
+._线段 {
+}
+.icon {
+}
+._默认样式 {
+}
+.image {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状 {
+}
+._水平线 {
+}
+._图片1 {
+  color:#000000;
+}
+._形状1 {
+  font-family:'';
+  font-weight:normal;
+  font-style:normal;
+}
+._图片2 {
+  color:#000000;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+.image1 {
+  color:#000000;
+}
+.ellipse {
+}
+.flow_shape {
+}
+.flow_shape1 {
+}
+textarea, select, input, button { outline: none; }
